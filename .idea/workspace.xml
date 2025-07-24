@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fc07f23-565d-4070-ac27-b2349f5b275c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Randomodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Randompasswordgeneratoe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,17 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Dataframes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Expenses_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Randomodule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datastructures.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Dataframes.executor": "Run",
+    "Python.Expenses_calculator.executor": "Run",
+    "Python.Randomodule.executor": "Run",
+    "Python.Randompasswordgeneratoe.executor": "Run",
+    "Python.datastructures.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
